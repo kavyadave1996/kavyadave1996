@@ -1,110 +1,15 @@
-## Hi there! 👋
-
-I am a Master’s student at TU Hamburg (TUHH) specializing in Information and Communication Systems. My work sits at the intersection of maritime automation, energy system modeling, and automated testing frameworks. I enjoy transforming complex time-series data into actionable insights and building robust, containerized infrastructures
-
-## About Me
+# 💫 About Me:
+I'm currently working on the Maritime domain ASR Whisper model<br>I'm looking to collaborate on AI projects<br>I'm currently learning RAG, MCP servers, AI multi-agents, Unsloth fine-tuning <br>Research ideas and academic projects<br>I believe every bug has a story to tell
 
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kavyadave/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:davekavya188@gmail.com) 
 
-- Name: **Kavya Mitesh Dave**
-- Role:  Doing my master in Hamburg University of Technology in Information and Communication System 
-- Location: Germany 
-- Interests: Technology, Trekking, Music 🎶🥾
-- LinkedIn: https://www.linkedin.com/in/kavyadave/
-- GitHub since: 2015
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=kavyadave1996&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=kavyadave1996&theme=flag-india&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=kavyadave1996&theme=flag-india&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I work at the intersection of wireless systems, robotics, and deep learning. My recent work focuses on 3D indoor localization for mobile robots (Wi‑Fi based) and computer vision solutions for detection and tracking. I'm curious about centimeter‑level positioning, ray‑tracing for multipath modeling, and efficient model architectures for real‑time systems.
-
-Currently Working :-
-Maritime domain specific TTS model
-
-Completed Project :-
-- Wi‑Fi‑based‑positioning — a 3D indoor localization framework coupling BIM models with IEEE 802.11az standards.
-
-Learned:
-- Deep learning for localization and perception
-- Advanced simulation and optimization techniques for AP placement and ray tracing
-
-Exploring/Learning:
-RAG, MCP, AI multi-agents, Unsloth fine-tuning 
-
-## Skills & Technologies
-
-python
-
-## Top Projects
-
-## Top Projects
-
-1. [Wi‑Fi‑based‑positioning](https://github.com/kavyadave1996/Wi-Fi-based-positioning) ⭐
-   - Description: Developing a 3D indoor localization framework for mobile robots by coupling BIM models with IEEE 802.11az Wi‑Fi standards. Features include MOGA optimization for AP placement, ray‑tracing simulations for multipath modeling, and ResNet‑18 deep learning for centimeter‑level positioning accuracy.
-   - Stars: 0
-   - Primary language: MATLAB
-   - Forks: 0 • Open issues: 0 • Watchers: 0
-
-2. [Face‑Detection‑and‑Tracking](https://github.com/kavyadave1996/Face-Detection-and-Tracking)
-   - Description: Python project for face detection and tracking (computer vision). Useful for real‑time perception pipelines and demos.
-   - Stars: 0
-   - Primary language: Python
-   - Forks: 0 • Open issues: 0 • Watchers: 0
-
-3. [kavyadave1996 (profile repo)](https://github.com/kavyadave1996/kavyadave1996)
-   - Description: Configuration files for my GitHub profile.
-   - Stars: 0
-   - Primary language: —
-   - Forks: 0 • Open issues: 0 • Watchers: 0
-
-Notes:
-- Projects above are ranked by relevance and recent activity. For details, check each repository link.
-
-## GitHub Stats
-
-## GitHub Stats 📊
-
-- Public repositories: **3**
-- Public gists: **1**
-- Followers: **0**
-- Following: **0**
-
-Badges & cards:
-
-- ![GitHub repos](https://img.shields.io/badge/public_repos-3-blue?logo=github)
-- ![Followers](https://img.shields.io/badge/followers-0-lightgrey?logo=github)
-
-Stats cards:
-
-- ![GitHub Streak](https://github-readme-stats.vercel.app/api?username=kavyadave1996&show_icons=true&theme=default)
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kavyadave1996&layout=compact&theme=default)
-
-(If the cards do not render in your environment, open them directly on GitHub README.)
-
-## Recent Activity
-
-## Recent Activity 🔁
-
-Here are the latest activities from my GitHub timeline (most recent first):
-
-- 🟢 Pushed to **kavyadave1996/Wi-Fi-based-positioning** — 2026-04-16T21:00:15Z
-- 🟢 Pushed to **kavyadave1996/Wi-Fi-based-positioning** — 2026-04-16T20:56:01Z
-- 🟢 Pushed to **kavyadave1996/Wi-Fi-based-positioning** — 2026-04-16T20:38:43Z
-- 🟢 Pushed to **kavyadave1996/Wi-Fi-based-positioning** — 2026-04-16T16:25:50Z
-- 🟢 Created branch **main** in **kavyadave1996/Wi-Fi-based-positioning** — 2026-04-16T16:10:26Z
-- 🟢 Pushed to **kavyadave1996/kavyadave1996** (profile repo) — 2026-04-16T16:04:32Z
-
-For a full history, visit: https://github.com/kavyadave1996
-
-## Connect with Me
-
-## Connect with Me 🔗
-
-- 🐙 GitHub: https://github.com/kavyadave1996
-- 💼 LinkedIn: https://www.linkedin.com/in/kavyadave/
-
-Social badges:
-
-- ![GitHub](https://img.shields.io/badge/GitHub-kavyadave1996-181717?logo=github&logoColor=white)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavya_Dave-0A66C2?logo=linkedin&logoColor=white)
-
-Notes:
-- Email: Not publicly listed. Please reach out via LinkedIn or GitHub issues for collaboration, questions, or opportunities.
-- Open to research collaborations and master's program opportunities related to robotics, localization, and ML.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
